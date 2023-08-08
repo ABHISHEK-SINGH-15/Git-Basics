@@ -1,3 +1,2 @@
 # Git-Basics
-comment-1
-this is new master branch 
+comment-1 this is default main branch
